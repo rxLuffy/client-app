@@ -1,0 +1,14 @@
+{
+    "typescript.preferences.autoImportFileExcludePatterns": [
+        "@ionic/angular/common",
+        "@ionic/angular"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.addMissingImports.ts": "always",
+        "source.organizeImports": "always",
+        "source.sortImports": "always",
+        "source.removeUnusedImports": "always",
+        "source.fixAll.ts": "always"
+    },
+    "editor.formatOnSave": true
+}
